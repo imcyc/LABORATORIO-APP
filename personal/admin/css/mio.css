@@ -1,0 +1,7 @@
+.navbar-nav li { border-bottom: 2px solid #000000;}
+.navbar-nav li a { border-bottom: 1px solid #333333;}
+
+
+@media(max-width:768px) {
+    .navbar-inverse .navbar-brand { display: none; }
+}

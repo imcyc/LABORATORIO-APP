@@ -1,0 +1,77 @@
+body {
+    padding-top: 70px;
+    background: #222222;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 230px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+    height: 55px;
+    overflow: hidden;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+    border-radius: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+p.status { padding: 5px; margin-bottom: 3px;margin-left: 3px;background: #dedede;}
+.pull-right {float: right!important;font-size: 12px;margin-right: 3px;margin-top: 3px;color: #fff;padding: 3px;border: 1px solid #333;background: #ff0000;}
+p.status.paso { background: #323232; color: #ffffff; }
+p.status.pro { background: #FFC200; color: #ffffff; }
+p.status.nopaso { background: #E52420; color: #ffffff; }
+
+.row.estelares { border-bottom: 1px solid #555; margin-bottom: 20px;}
+.row.estelares .caption { height: 350px;}
+
+.navbar-form .input-group .input-group-btn { width: 35px;}
+
+h4.bbusca {margin:0; padding:0; padding:10px;border-top:1px solid #000000;border-bottom:1px solid #000000;font-weight:300; color: #ffffff; background:#111111; box-shadow: 0 0 5px #000000; }
+
+.thumbnail { background: rgba(1,1,1,0.8); box-shadow: 0 0 5px #000000; border: none;}
+
+.caption h4 a { font-size: 25px; font-family: 'Oswald', sans-serif; color: #fff;}
+.caption h4 a span.apelli { color: #959595;}
+p.certifica { border-bottom: 2px solid #555; padding: 5px; color: #ffffff;}
+p.certificacion {font-family: 'Oswald', sans-serif;text-align: center;color: #ffffff;font-size: 17px;padding: 5px 20px;background: #222;height: 59px;}
+.row.intro h1 { text-align: center; color: #ffffff; font-weight: 100;}
+.row.intro p { text-align: center; color: #ff0000; font-weight: 100; font-size: 22px;}
+h2.resultados {text-align:center;border-top:8px solid #333;padding:10px;background:#222;color:#fff;margin:0;margin-bottom:10px;font-weight: 100;    margin-top: 10px;padding-top: 10px;}
+p.resultados {margin:0; padding:0;text-align:center;font-weight:bold; padding-top:10px; background:#454545; color:#fff; padding-bottom:10px; text-transform:uppercase; font-weight:200; padding: 10px;}
+.caption.resultados p { color: #d2d2d2; }
